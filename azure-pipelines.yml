@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: mann
+pool: why
 
 steps:
 - script: |
